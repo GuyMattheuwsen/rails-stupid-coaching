@@ -1,3 +1,23 @@
 // Place all the styles related to the Questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+h4 {
+  font-weight: normal;
+}
+
+
+p {
+  font-style: italic;
+}
+
+a {
+  color: grey;
+  &:hover {
+    color: black;
+  }
+}

@@ -13,16 +13,4 @@
  *= require_tree .
  *= require_self
  */
-h1 {
-  font-family: 'Times New Roman', Times, serif;
-}
 
-
-h4 {
-  font-weight: normal;
-}
-
-
-p {
-  font-style: italic;
-}
